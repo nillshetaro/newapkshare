@@ -2,4 +2,3 @@
 #EXT-X-VERSION:5
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=256000
 http://dotfli.live:3030/s-1/index.m3u8?token=312eb4831e5fc66768e6cc381d6f7b864d50dce6-5f3c8882e23ae0aff92fd329a6fa7cd3-1673622057-1673611257&remote=103.117.195.240
-https://live.tsports.com:443/live/tsports_live_720/index.m3u8
