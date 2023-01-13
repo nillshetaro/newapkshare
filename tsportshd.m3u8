@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:5
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=256000
+https://live.tsports.com:443/live/tsports_live_720/index.m3u8
